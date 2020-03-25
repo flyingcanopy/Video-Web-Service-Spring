@@ -5,7 +5,7 @@
 To run the application:
 
 Right-click on the Application class in the org.magnum.dataup
-package, Run As->Java Application
+package, Run as->Java Application
 
 To stop the application:
 
